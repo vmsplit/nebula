@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="400" alt="nebula" />
+<img src="assets/banner.png" width="400" alt="nebula" />
 
 <br>
 
